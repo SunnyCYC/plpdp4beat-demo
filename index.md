@@ -48,8 +48,8 @@ This is the demo page for the paper titled
 *Chopin_Op063No3_Rossi-2007_pid610633-05.wav*
 ![](/demo_songs/Maz-5/plot_MAZ-5_s10_e20_Chopin_Op063No3_Rossi-2007_pid610633-05.png)
 
-*Chopin_Op017No4_Fou-1978_pid9071-20.wav*
-![](/demo_songs/Maz-5/plot_MAZ-5_s10_e20_Chopin_Op017No4_Fou-1978_pid9071-20.png)
+*Chopin_Op017No4_Perahia-1994_pid54293-09.wav*
+![](/demo_songs/Maz-5/plot_MAZ-5_s10_e20_Chopin_Op017No4_Perahia-1994_pid54293-09.png)
 
 *Chopin_Op024No2_Fiorentino-1961_pid9065-10.wav*
 ![](/demo_songs/Maz-5/plot_MAZ-5_s10_e20_Chopin_Op024No2_Fiorentino-1961_pid9065-10.png)
