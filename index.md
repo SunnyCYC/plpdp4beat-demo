@@ -62,7 +62,9 @@ This is the demo page for the paper titled
 
 #### Reference
 *[1] F. Foscarin, A. McLeod, P. Rigaux, F. Jacquemard, and M. Sakai,“ASAP: A dataset of aligned scores and performances for piano transcription,” in Proc. Int. Soc. Music Inf. Retr. Conf., 2020, pp. 53*
+
 *[2] https://github.com/fosfrancesco/asap-dataset*
+
 *[3] P. Grosche, M. Müller, and C. S. Sapp, “What makes beat tracking
 difficult? A case study on Chopin Mazurkas,” Proc. Int. Soc. Music Inf.
 Retr. Conf., no. January, pp. 649–6.*
