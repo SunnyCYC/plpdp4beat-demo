@@ -38,3 +38,13 @@ This is the demo page for the paper titled
 | Original | Reference | HMM | HMMT0 | PLPDP | 
 | -------- | -------- | -------- | -------- | -------- |
 |<audio src="demo_songs/ASAP/s10_e20_Shi08M.wav" controls="" preload=""></audio>|<audio src="demo_songs/ASAP/click_ref_s10_e20_Shi08M.wav" controls="" preload=""></audio>|<audio src="demo_songs/ASAP/click_HMM_s10_e20_Shi08M.wav" controls="" preload=""></audio>|<audio src="demo_songs/ASAP/click_HMMT0_s10_e20_Shi08M.wav" controls="" preload=""></audio>|<audio src="demo_songs/ASAP/click_PLPDP_s10_e20_Shi08M.wav" controls="" preload=""></audio>|
+
+#### Qualitative Results for Maz-5[3]
+
+
+#### Reference
+*[1] F. Foscarin, A. McLeod, P. Rigaux, F. Jacquemard, and M. Sakai,“ASAP: A dataset of aligned scores and performances for piano transcription,” in Proc. Int. Soc. Music Inf. Retr. Conf., 2020, pp. 53*
+*[2] https://github.com/fosfrancesco/asap-dataset*
+*[3] P. Grosche, M. Müller, and C. S. Sapp, “What makes beat tracking
+difficult? A case study on Chopin Mazurkas,” Proc. Int. Soc. Music Inf.
+Retr. Conf., no. January, pp. 649–6.*
