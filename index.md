@@ -12,4 +12,4 @@ This is the demo page for the paper titled
 
 | Original | Reference | HMM | HMMT0 | PLPDP | 
 | -------- | -------- | -------- | -------- | -------- |
-|<audio src="demo_songs\ASAP\s10_e20_WangY07M.wav" controls="" preload=""></audio> | Text     | Text     | Text     | Text     |
+|<audio src="demo_songs/ASAP/s10_e20_WangY07M.wav" controls="" preload=""></audio> | Text     | Text     | Text     | Text     |
