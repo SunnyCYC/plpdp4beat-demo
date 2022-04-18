@@ -3,7 +3,7 @@
 This is the demo page for the paper titled
 "*Local Temporal Expectation-based Beat Tracking for Expressive Classical Music*".
 
-**| Paper |[ **Demo** ](https://sunnycyc.github.io/plpdp4beat-demo/)| Code |** 
+| Paper |[ **Demo** ](https://sunnycyc.github.io/plpdp4beat-demo/)| Code | 
 
 #### Qualitative Results for ASAP[1, 2]
 
@@ -45,9 +45,20 @@ This is the demo page for the paper titled
 
 #### Qualitative Results for Maz-5[3]
 
+*Chopin_Op063No3_Rossi-2007_pid610633-05.wav*
+![](/demo_songs/Maz-5/plot_MAZ-5_s10_e20_Chopin_Op063No3_Rossi-2007_pid610633-05.png)
 
+*Chopin_Op017No4_Fou-1978_pid9071-20.wav*
+![](/demo_songs/Maz-5/plot_MAZ-5_s10_e20Chopin_Op017No4_Fou-1978_pid9071-20.png)
 
+*Chopin_Op024No2_Fiorentino-1961_pid9065-10.wav*
+![](/demo_songs/Maz-5/plot_MAZ-5_s10_e20_Chopin_Op024No2_Fiorentino-1961_pid9065-10.png)
 
+*Chopin_Op030No2_Chiu-1999_pid9048-19.wav*
+![](/demo_songs/Maz-5/plot_MAZ-5_s10_e20_Chopin_Op030No2_Chiu-1999_pid9048-19.png)
+
+*Chopin_Op068No3_Smidowicz-1948_pid9082-11.wav*
+![](/demo_songs/Maz-5/plot_MAZ-5_s10_e20_Chopin_Op068No3_Smidowicz-1948_pid9082-11.png)
 
 #### Reference
 *[1] F. Foscarin, A. McLeod, P. Rigaux, F. Jacquemard, and M. Sakai,“ASAP: A dataset of aligned scores and performances for piano transcription,” in Proc. Int. Soc. Music Inf. Retr. Conf., 2020, pp. 53*
