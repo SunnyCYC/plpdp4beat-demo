@@ -1,4 +1,4 @@
-### Predominant Local Pulse-based Dynamic Programming Beat Tracker -- Demo Page
+### PLPDP Post-processing Tracker -- Demo Page
 
 This is the demo page for the paper titled
 "*Local Temporal Expectation-based Beat Tracking for Expressive Classical Music*".
