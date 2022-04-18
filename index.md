@@ -3,6 +3,7 @@
 This is the demo page for the paper titled
 "*Local Temporal Expectation-based Beat Tracking for Expressive Classical Music*".
 
+[ **| Paper |** ](https://)[ **Demo** ](https://sunnycyc.github.io/plpdp4beat/)[ **| Code |** ](https://)
 
 #### Qualitative Results for ASAP[1, 2]
 
