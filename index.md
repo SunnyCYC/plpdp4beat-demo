@@ -7,7 +7,7 @@ This is the demo page for the paper titled
 ## Qualitative Results for ASAP[1, 2]
 
 *Schumann/Toccatarepeat/WangY07M.wav*
-![](/demo_songs/ASAP/plot_ASAP_s10_e20_WangY07M.png)
+![WangY07M](/demo_songs/ASAP/plot_ASAP_s10_e20_WangY07M.png)
 
 
 | Original | Reference | HMM | HMMT0 | PLPDP | 
